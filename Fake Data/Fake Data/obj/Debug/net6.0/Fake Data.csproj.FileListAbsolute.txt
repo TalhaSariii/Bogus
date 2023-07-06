@@ -1,0 +1,17 @@
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Fake Data.exe
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Fake Data.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Fake Data.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Fake Data.dll
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Fake Data.pdb
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\bin\Debug\net6.0\Bogus.dll
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.dll
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\refint\Fake Data.dll
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.pdb
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\Fake Data.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Masaüstü\Github\staj bogus\Bogus\Fake Data\Fake Data\obj\Debug\net6.0\ref\Fake Data.dll
